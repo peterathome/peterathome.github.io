@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "My first blog"
+date:   2021-01-14 08:44:47 +0800
+categories: jekyll update
+---
+
+
+this is my first blog on github, just a testing page, not good.
+
+it needs time to make it better.
+thanks.
